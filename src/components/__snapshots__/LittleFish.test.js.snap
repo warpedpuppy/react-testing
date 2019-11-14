@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`event listener tests closes the first tab and opens any clicked tab 1`] = `
+<div
+  className="big-fish"
+  onClick={[Function]}
+>
+  <span
+    className=""
+  >
+    my name is 
+     
+  </span>
+  <Fish
+    name="Sam"
+  />
+</div>
+`;
+
+exports[`snapshot tests renders the UI as expected 1`] = `
+<div
+  className="big-fish"
+  onClick={[Function]}
+>
+  <span
+    className="hide"
+  >
+    my name is 
+     
+  </span>
+  <Fish
+    name="Sam"
+  />
+</div>
+`;

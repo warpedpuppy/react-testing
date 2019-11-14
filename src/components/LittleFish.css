@@ -1,0 +1,14 @@
+.little-fish {
+    width: 156px;
+    background-image: url('/littleFish.png');
+    height: 114px;
+    margin: 0 auto;
+    position: relative;
+    top: 105px;
+    left: 15px;
+}
+
+.little-fish > span {
+    top:-100px;
+    left: -120px;
+}

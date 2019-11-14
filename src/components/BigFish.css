@@ -1,0 +1,12 @@
+.big-fish {
+    width: 933px;
+    background-image: url('/bigFish.png');
+    height: 685px;
+    margin: 30px auto;
+    position: relative;
+    cursor: pointer;
+}
+.big-fish > span {
+    top:0;
+    left: 0;
+}

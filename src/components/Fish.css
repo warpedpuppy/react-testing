@@ -1,0 +1,13 @@
+.fish {
+    width: 384px;
+    height: 282px;
+    background-image: url('/fish.png');
+    margin: 0 auto;
+    position: relative;
+    top:250px;
+}
+
+.fish > span {
+    top:-50px;
+    left: -120px;
+}
